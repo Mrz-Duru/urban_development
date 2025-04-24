@@ -415,13 +415,6 @@ For `clustered_optimizer (1).ipynb`, `clustered_optimizer_50_kms_included.py`, `
   - Negative predictions are tracked in `less_than_0`; review these for model debugging.
   - The script is designed for multi-step forecasting but may be computationally intensive due to iterative predictions and clustering iterations.
 
-## Contributing
-Contributions are welcome! To contribute:
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Commit your changes (`git commit -m 'Add feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Open a pull request.
 
 Please follow PEP 8 guidelines and include documentation for new features or scripts.
 
